@@ -58,7 +58,7 @@ function boolSignal(blist, nlist){
     }
   }
 }
-
+// problem 7
 function masterArr(strList,blist, nlist){
 
   var master = [];
@@ -78,6 +78,7 @@ function masterArr(strList,blist, nlist){
 
 
 console.log(completeMessage(message,stringList));
+//problem 2 !!!!!!
 console.log(numList[numList.length- 1]);
 console.log(oneString(numList));
 console.log(numTotal(numList));
